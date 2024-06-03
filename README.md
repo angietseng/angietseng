@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @angietseng
-- 👀 I’m interested in neuroscience, computer science, artificial intelligence, and machine learning. 
-- 💞️ I’m looking to collaborate on projects related to artificial intelligence, machine learning, or computational neuroscience. 
+- 👋 Hi, my name is Angeline Tseng. 
+- 👀 I am interested in leveraging machine learning to drive advancements in health tech, biotechnology and pharmaceuticals.  
 - 📫 How to reach me: \
      email: angelinecct3@gmail.com
 
