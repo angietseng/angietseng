@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Angeline Tseng. 
-- 👀 I am interested in leveraging machine learning to drive advancements in health tech, biotechnology and pharmaceuticals.  
+- 👀 I am interested in leveraging machine learning to drive advancements in healthcare.  
 - 📫 How to reach me: \
      Email: angelinecct3@gmail.com \
      LinkedIn: https://www.linkedin.com/in/angeline-tseng/
