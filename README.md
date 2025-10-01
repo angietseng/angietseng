@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Angeline Tseng
-- 👀 Interested in tech and healthcare
+- 👀 Interested in tech and AI/ML. Trying to combine with health
 - 💃 Enjoy playing tennis, playing basketball, running, reading, and watching movies. I also love anything art related and anything aesthetic. Recently started to learn how to crochet! 
 - 📫 How to reach me: \
      Email: angelinecct3@gmail.com \
