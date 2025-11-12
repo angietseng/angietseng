@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Angeline Tseng
 - 👀 Interested in tech, AI/ML, health, and neuroscience
-- 💃 Enjoy playing tennis, basketball, pilates, running, reading, and watching movies. I also love anything art related and anything aesthetic. Recently started to learn how to crochet! 
+- 💃 My hobbies are tennis, basketball, long run, pilates, film photography, fashion, reading and watching movies. I also love anything art related and anything aesthetic. Recently started to learn how to crochet! 
 - 📫 How to reach me: \
      Email: angelinecct3@gmail.com \
      LinkedIn: https://www.linkedin.com/in/angeline-tseng/
